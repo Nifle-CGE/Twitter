@@ -38,7 +38,7 @@
      - [x] Add message seen 
  - [x] Replies
      - [x] Add replies to post 
-     - [x] *Add possibility to delete replie
+     - [x] *Add possibility to delete replies
      - [x] Move replies inside post document inside an array
      - [ ] * Add replies to replies
 
